@@ -1,0 +1,126 @@
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.csproj.AssemblyReference.cache
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.AssemblyInfoInputs.cache
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.AssemblyInfo.cs
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.csproj.CoreCompileInputs.cache
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.MvcApplicationPartsAssemblyInfo.cs
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.MvcApplicationPartsAssemblyInfo.cache
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\appsettings.Development.json
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\appsettings.json
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MyBlogs.exe
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MyBlogs.deps.json
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MyBlogs.runtimeconfig.json
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MyBlogs.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MyBlogs.pdb
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\AutoMapper.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\DnsClient.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\FluentValidation.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\SharpCompress.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Snappier.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\ZstdSharp.dll
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets\msbuild.MyBlogs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets\msbuild.build.MyBlogs.props
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyBlogs.props
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyBlogs.props
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets.build.json
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets.development.json
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\scopedcss\bundle\MyBlogs.styles.css
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.csproj.CopyComplete
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.dll
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\refint\MyBlogs.dll
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.pdb
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.genruntimeconfig.cache
+D:\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\ref\MyBlogs.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\appsettings.Development.json
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\appsettings.json
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MyBlogs.exe
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MyBlogs.deps.json
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MyBlogs.runtimeconfig.json
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MyBlogs.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MyBlogs.pdb
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\AutoMapper.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\AWSSDK.Core.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\DnsClient.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\FluentValidation.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MongoDB.Bson.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MongoDB.Driver.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\SharpCompress.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Snappier.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\ZstdSharp.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+E:\D drive\AppboxTech Internship\playground\MyBlogs\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.csproj.AssemblyReference.cache
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.GeneratedMSBuildEditorConfig.editorconfig
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.AssemblyInfoInputs.cache
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.AssemblyInfo.cs
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.csproj.CoreCompileInputs.cache
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.MvcApplicationPartsAssemblyInfo.cs
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.MvcApplicationPartsAssemblyInfo.cache
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets\msbuild.MyBlogs.Microsoft.AspNetCore.StaticWebAssets.props
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets\msbuild.build.MyBlogs.props
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyBlogs.props
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyBlogs.props
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets.pack.json
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets.build.json
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\staticwebassets.development.json
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\scopedcss\bundle\MyBlogs.styles.css
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.csproj.CopyComplete
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\refint\MyBlogs.dll
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.pdb
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\MyBlogs.genruntimeconfig.cache
+E:\D drive\AppboxTech Internship\playground\MyBlogs\obj\Debug\net7.0\ref\MyBlogs.dll
